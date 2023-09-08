@@ -13,6 +13,7 @@ The REPL interacts with a playlist DB with the following attributes:
 ## Using the application
 
 You should use the ruby container with `docker exec -it cassruby-ruby-1 sh`
+
 Inside the terminal you can use `ruby main.rb` to list the available commands
 
 ### List of available commands
