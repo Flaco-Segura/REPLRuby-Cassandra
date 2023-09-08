@@ -18,6 +18,9 @@ Inside the terminal you can use `ruby main.rb` to list the available commands
 ### List of available commands
 
 - `ruby main.rb add` add a new register
+  
 - `ruby main.rb list` list the registers
+  
 - `ruby main.rb delete` remove the selected register
+  
 - `ruby main.rb update` update the selected register
